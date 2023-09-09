@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 
-# Classifier Android App
+# 📱 Classifier Android App
 
 ### 📗 Table of Contents
 
@@ -14,9 +14,9 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 [Classifier Android App!] <a name="about-project"></a>
+# 📖 [Classifier Android App] <a name="about-project"></a>
 
-**[Classifier Android App!]** is Implementing resnet50 model on android studio.
+**[Classifier Android App]** is Implementing a built-in model on Android Studio.
 
 ## 🛠 Built With <a name="built-with"></a>
 ### Kotlin
