@@ -16,7 +16,8 @@
 
 # 📖 [Classifier Android App] <a name="about-project"></a>
 
-**[Classifier Android App]** is Implementing a built-in model on Android Studio.
+**[Classifier Android App]** Includes 2 ML apps, the ObjectDetectionApp, and the ResnetApp. the first could handle real-time data, and the second managed offline images.
+models we used here are available in [tensorflow](https://www.tensorflow.org/lite/examples/image_classification/overview).
 
 ## 🛠 Built With <a name="built-with"></a>
 ### Kotlin
@@ -64,7 +65,7 @@ If you like this project give me star!
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank [ProgrammingHut](https://youtu.be/gVJC1j2n9tE?feature=shared) for his tutorial 🙏
+I would like to thank [ProgrammingHut](https://www.youtube.com/@programming_hut) and  for his tutorials 🙏
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
