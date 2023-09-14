@@ -20,8 +20,8 @@
 models we used here are available in [tensorflow](https://www.tensorflow.org/lite/examples/image_classification/overview).
 
 ## 🛠 Built With <a name="built-with"></a>
-**Kotlin**
-**Android studio**
+- **Kotlin**
+- **Android studio**
 
 ### Key Features <a name="key-features"></a>
 
